@@ -13,8 +13,7 @@
 
 - Blockchain (Solana , Bitcoin) Developer
 - Majored in Smart Contract 
-- Web3 , Full Stack Developer
-- Bot expert
+- Web3 , Full Stack Developer , Bot expert
 
 <!-- ---
 
