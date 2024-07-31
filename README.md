@@ -19,7 +19,7 @@
 - 🌱 Built several significant projects based on Bitcoin, Solana network.
 - 💼 Now building Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
 
-
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SkyCaptainess.SkyCaptainess" />
 <!--
 **anti-dominator/anti-dominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
