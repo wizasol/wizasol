@@ -1,8 +1,7 @@
-## Hi there 👋
-
 <h1 style="text-align : center">Hi ! , I'm Akiyoshi Nakao 👋</h1>
 
 - Blockchain (Solana , Bitcoin) Developer
+- Majored in Smart Contract 
 - Web3 , Full Stack Developer
 - Bot expert
 
