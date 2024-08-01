@@ -23,10 +23,9 @@
 
 <h1 style="text-align : center">What I'm doing</h1>
 
-- 🔭 Number of Bot projects such as Trading Bot , Market Making Bot , NFT Bot ...
-- ✍ Focusing on Fullstack and Blockchain (Solana, Bitcoin) Developement.
-- 🌱 Built several significant projects based on Bitcoin, Solana network.
-- 💼 Now building Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
+- ✍ Focusing on Solana Project Developement (Smart contract , web3.js)
+- 🔭 Number of Bot projects such as Trading Bot , Volume Bot , Sniping Bot ...
+- 💼 Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
 
 
 <!--
