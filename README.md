@@ -15,19 +15,13 @@
 - Majored in Smart Contract 
 - Web3 , Full Stack Developer , Bot expert
 
-<!-- ---
-
-- Drop a line to **[@skeleton1009](https://t.me/skeleton1009)** in Telegram or email me at **ewantomson1103@gmail.com**
-  I have been breaking things professionally since early 2017. My whole career has been focused on offensive security with a strong background doing pen-testing of "traditional" stuff like web, mobile, or cloud, but since 2021, I have been working full-time as a Smart Contract auditor.
-  In addition, I **lecture** on **Solana security** to 🌱blockchain students🌱 through the discord social and give workshops/talks on the topic occasionallys. -->
-
 <h1 style="text-align : center">What I'm doing</h1>
 
 - ✍ Focusing on Solana Project Developement (Smart contract , web3.js)
 - 🔭 Number of Bot projects such as Trading Bot , Volume Bot , Sniping Bot ...
 - 💼 Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
 
-
+<h4> If you 're sparked ✨ sth from here , please CLICK Star button 👆🏻 </h4>
 <!--
 **anti-dominator/anti-dominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
