@@ -5,7 +5,7 @@
     <h1 align="center">✩&emsp;Welcome!!&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!++this+is+anti;Welcome+to+my+profile!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!++this+is+solkeen;Welcome+to+my+profile!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anti-dominator.anti-dominator)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=solkeen.solkeen)
