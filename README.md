@@ -24,7 +24,7 @@
 <h4> If you 're sparked ✨ sth from here , please CLICK Star button 👆🏻 </h4>
 
 <p> 
-    <a href="mailto:akiyoshinakao95911@gmail.com" target="_blank">
+    <a href="mailto:nakao95911@gmail.com" target="_blank">
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
