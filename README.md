@@ -21,7 +21,7 @@
 - 🔭 Number of Bot projects such as Trading Bot , Volume Bot , Sniping Bot ...
 - 💼 Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
 
-<h4> If you 're sparked ✨ sth from here , please CLICK Star button 👆🏻 </h4>
+<h4> Contact me with bellow link ✨ , You are always welcome 👆🏻 </h4>
 
 <p> 
     <a href="mailto:nakao95911@gmail.com" target="_blank">
