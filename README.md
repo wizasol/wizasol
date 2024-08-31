@@ -15,13 +15,13 @@
 - Majored in Smart Contract 
 - Web3 , Full Stack Developer , Bot expert
 
-<h1 style="text-align : center">What I'm doing</h1>
+<h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ </h1>
 
 - ✍ Focusing on Solana Project Developement (Smart contract , web3.js)
 - 🔭 Number of Bot projects such as Trading Bot , Volume Bot , Sniping Bot ...
 - 💼 Rune Marketplace, Raffle, Auction tools on Bitcoin, Also working on creating an SPL token creation tool on Solana.
 
-<h4> Contact me with bellow link ✨ , You are always welcome 👆🏻 </h4>
+<h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <p> 
     <a href="mailto:nakao95911@gmail.com" target="_blank">
