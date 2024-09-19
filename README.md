@@ -5,7 +5,7 @@
     <h1 align="center">✩&emsp;Welcome!!&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!++this+is+solkeen;Welcome+to+my+profile!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!++this+is+solkeen;Welcome+to+my+profile!;If+you+wanna+go+to+the+moon;You+are+in+right+place&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 
