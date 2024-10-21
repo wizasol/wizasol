@@ -44,6 +44,10 @@
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
+
+<p align="center">
+    <h1 align="center">✩&emsp;Star On Below !&emsp;✩</h1>
+</p>
 <!--
 **anti-dominator/anti-dominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
