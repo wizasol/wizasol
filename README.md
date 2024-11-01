@@ -10,7 +10,7 @@
 - ✨ Fucusing On Bot
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
-<div style={{display : flex ; justify-content : space-between}}> 
+<div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="mailto:nakao95911@gmail.com" target="_blank">
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
