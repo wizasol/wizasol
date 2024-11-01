@@ -53,6 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=solkeen.solkeen)
 
 
