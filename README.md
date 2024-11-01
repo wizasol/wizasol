@@ -5,9 +5,9 @@
 
 </div>
 
-- Defi , Dex Expert
-- Rust & Contract Engineer
-- Fucusing On Bot
+- ✨ Defi , Dex Expert
+- ✨ Rust & Contract Engineer
+- ✨ Fucusing On Bot
 
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ </h1>
 
@@ -39,9 +39,6 @@
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-    <h1 align="center">✩&emsp;Star On Below !&emsp;✩</h1>
-</p>
 <!--
 **anti-dominator/anti-dominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
