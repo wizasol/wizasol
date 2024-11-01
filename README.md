@@ -10,7 +10,7 @@
 - ✨ Fucusing On Bot
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
-<p> 
+<div style={{display : flex ; justify-content : space-between}}> 
     <a href="mailto:nakao95911@gmail.com" target="_blank">
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -21,7 +21,7 @@
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+</div>
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ </h1>
 
 - ```Pumpfun Smart Contract + Raydium Integration``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
