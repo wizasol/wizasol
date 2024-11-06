@@ -5,7 +5,7 @@
 
 </div>
 
-- ✨ Rust & Contract Engineer
+- ✨ Rust & Blockchain Engineer ( Anchor )
 - ✨ Defi , Dex Expert ( Dex , Staking , Farming , Presale , Token Freezer )
 - ✨ Forked Pumpfun , Forking Marinade Smart Contract , Fucusing On Bot
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
