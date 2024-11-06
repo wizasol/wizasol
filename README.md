@@ -5,9 +5,9 @@
 
 </div>
 
-- ✨ Defi , Dex Expert
 - ✨ Rust & Contract Engineer
-- ✨ Fucusing On Bot
+- ✨ Defi , Dex Expert ( Dex , Staking , Farming , Presale , Token Freezer )
+- ✨ Forked Pumpfun , Forking Marinade Smart Contract , Fucusing On Bot
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
