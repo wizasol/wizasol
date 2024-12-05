@@ -24,8 +24,8 @@
 </div>
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ </h1>
 
-- ```Pumpfun Smart Contract + Raydium AMM , CLMM , CPMM ``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
-- ```Pumpfun Smart Contract TOKEN2022 + Raydium CLMM``` : Forking Pumpfun using TOKEN2022, launch the token on raydium after hit the bonding curve
+- ```Pumpfun Smart Contract + Raydium AMM ``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
+- ```Pumpfun Smart Contract TOKEN2022 + Raydium CLMM , CPMM``` : Forking Pumpfun using TOKEN2022, launch the token on raydium after hit the bonding curve
 - ```FT , NFT Staking Contract``` : Staking Contract on Solana
 - ```Raydium and Pumpfun Sniper``` : Automates tracking of new pools and executes purchases quickly.
 - ```Raydium and Pumpfun , Meteora Bundler``` : Creates pools + add liquidity + first buys tokens with 21 wallets in the first block using jito bundling
