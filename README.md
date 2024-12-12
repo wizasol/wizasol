@@ -22,7 +22,7 @@
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
-<h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ </h1>
+<h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Updating </h1>
 
 - ```Pumpfun Smart Contract + Raydium AMM ``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
 - ```Pumpfun Smart Contract TOKEN2022 + Raydium CLMM , CPMM``` : Forking Pumpfun using TOKEN2022, launch the token on raydium after hit the bonding curve
