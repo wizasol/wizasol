@@ -38,7 +38,7 @@
 - ```Ton Mini App Game``` : Coinflip and Casino Game on Ton blockchain
 - ```Jetton Airdrop Bot``` : Jetton Airdrop Bot which give airdrop to top holders of specific token among 1000 ~ 50000 top holders
 
-![](https://komarev.com/ghpvc/?username=wizasol&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=wizasol)
 
 <!--
 **anti-dominator/anti-dominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
