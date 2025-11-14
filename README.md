@@ -18,7 +18,10 @@
 
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
-<img width="1003" height="557" alt="image" src="https://github.com/user-attachments/assets/d99ff530-8801-432a-8fef-399daff7ecf4" />
+- Solana Arbitrage Bot V2
+- Solana Relayer Adapter
+- Validator Targeting Transaction Confirm
+- Dex Aggregator
 
 <h3>✨ Star & Fork</h3>
 <a href="https://github.com/vvizardev/jito-shredstream-provider-rust">Jito ShredStream Provider (Free)</a>
