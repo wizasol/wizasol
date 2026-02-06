@@ -18,10 +18,10 @@
 
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
-- Solana Arbitrage Bot V2
-- Solana Relayer Adapter
-- Validator Targeting Transaction Confirm
-- Dex Aggregator
+- Solana Arbitrage Bot V2, Validator Targeting Transaction Confirm
+- Solana Relayer Adapter, Dex Aggregator
+- Pumpfun, Bagsfm Sniper, Bundler, Fourmeme Sniper
+- Future Trading, Perps Trading, Polymarket
 
 <h3>✨ Star & Fork</h3>
 <a href="https://github.com/vvizardev/jito-shredstream-provider-rust">Jito ShredStream Provider (Free)</a>
